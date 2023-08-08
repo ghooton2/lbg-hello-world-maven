@@ -17,9 +17,9 @@ public class App
         System.out.println(sayGoodbye());
     }
 
-    public static String sayHello(){
-        return "Hello World!";
-    }
+//    public static String sayHello(){return "Hello World!";}
+    public static String sayHello(){return "Hello!";}
+
 
     public static String sayGoodbye(){
         return "Goodbye World!";
